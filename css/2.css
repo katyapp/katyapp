@@ -131,17 +131,17 @@ article .cnt{
     transform: rotate(130deg);
     top: -100px;
     position: absolute;
-    left: -50%;
+    left: -55%;
     z-index: 5634;
 }
 .rbn {
-    width: 100%;
+    width: 105%;
     height: 59%;
     background: #0012ff26;
     transform: rotate(130deg);
     top: 85%;
     position: relative;
-        left: 50%;
+        left: 55%;
 	    z-index: 5634;
 }
 a {
