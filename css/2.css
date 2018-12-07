@@ -125,7 +125,7 @@ article .cnt{
     background: #0012ff26;
     transform: rotate(130deg);
     top: 10px;
-    position: relative;
+    position: absolute;
     left: -506px;
 }
 a {
