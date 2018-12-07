@@ -9,7 +9,7 @@ html,body{
 	-o-transition: background 1s;
 	transition: background 1s;
 	overflow-x:hidden;
-	overflow-y:auto;
+	overflow-y: hidden;
 }
 
 section{
