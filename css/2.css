@@ -132,6 +132,7 @@ article .cnt{
     top: 10px;
     position: absolute;
     left: -506px;
+	    z-index: 5634;
 }
 .rbn {
     width: 100%;
@@ -141,6 +142,7 @@ article .cnt{
     top: 85%;
     position: relative;
     left: 446px;
+	    z-index: 5634;
 }
 a {
     text-decoration: none;
