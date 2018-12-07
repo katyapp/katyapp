@@ -22,7 +22,12 @@ section{
 	overflow-y:auto;
 	overflow-x:hidden;
 }
-
+.home {
+    z-index: 324242424;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
 article{
 	display:block;
 	width:60%;
