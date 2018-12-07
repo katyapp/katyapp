@@ -230,6 +230,9 @@ article {
     right: 10px;
     top: 30%;
 }
+	.rbn {
+    left: 50%;
+}
 }
 
 /* iPhone 6 ----------- */
@@ -238,7 +241,9 @@ article {
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
-/* Styles */
+	.rbn {
+    left: 50%;
+}
 }
 
 /* iPhone 6+ ----------- */
