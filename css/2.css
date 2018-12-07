@@ -133,7 +133,7 @@ width: 100%;
     position: absolute;
     left: -55%;
     z-index: 5634;
-    box-shadow: 0px -1px 6px rgba(45, 105, 0, 0.22), 0 3px 6px rgba(70, 146, 0, 0.23);
+    box-shadow: 0px -1px 6px #73737382, 0 3px 6px #73737382;
 }
 .rbn {
     width: 111%;
