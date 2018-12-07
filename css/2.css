@@ -127,7 +127,7 @@ article .cnt{
 .rb{
     width: 100%;
     height: 40%;
-    background: #0012ff26;
+    background:#01ea9426;
     transform: rotate(130deg);
     top: -100px;
     position: absolute;
@@ -137,7 +137,7 @@ article .cnt{
 .rbn {
     width: 105%;
     height: 59%;
-    background: #0012ff26;
+    background:#01ea9426;
     transform: rotate(130deg);
     top: 85%;
     position: relative;
