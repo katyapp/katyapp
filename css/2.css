@@ -26,6 +26,7 @@ section{
     z-index: 324242424;
     position: fixed;
     right: 20px;
+	    font-size: 2em;
     top: 20px;
 }
 article{
