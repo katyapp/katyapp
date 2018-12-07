@@ -141,7 +141,7 @@ article .cnt{
     transform: rotate(130deg);
     top: 85%;
     position: relative;
-    left: 446px;
+        left: 50%;
 	    z-index: 5634;
 }
 a {
