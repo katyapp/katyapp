@@ -127,6 +127,15 @@ article .cnt{
     position: absolute;
     left: -506px;
 }
+.rbn {
+    width: 100%;
+    height: 59%;
+    background: #0012ff26;
+    transform: rotate(130deg);
+    top: 50%;
+    position: relative;
+    left: 446px;
+}
 a {
     text-decoration: none;
     color: unset;
